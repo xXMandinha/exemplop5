@@ -1,8 +1,7 @@
-
+//amanda silva pereira
 // It was built to accompany a short tutorial article found at
 // https://medium.com/@pasquini/lets-build-a-recursive-tree-with-p5js-8d6d2017e0cb
 // Program licensed under CC BY-SA 3.0
-
 let maxLevel = 6; // number of levels of recursion. more than 10 will throw
                   // an error because the palette is not large enough
 
